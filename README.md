@@ -10,12 +10,13 @@ Hi 我是王鹏熹，你也可以叫我 **Pix**
 
 这是我 拍摄于两年前:
 
-![Before](Assets/Before.jpg)
+<img src="Assets/Before.jpg" alt="Before" width=30%>
 
 在金门大桥前:
 
-![GoldenState](Assets/GoldenState.jpeg)
+<img src="Assets/GoldenState.jpeg" alt="GoldenState" width=30%>
+
 
 现在:
 
-![Now](Assets/Now.jpg)
+<img src="Assets/Now.jpg" alt="Now" width=30%>
