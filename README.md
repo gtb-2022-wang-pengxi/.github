@@ -20,3 +20,7 @@ Hi 我是王鹏熹，你也可以叫我 **Pix**
 现在:
 
 <img src="Assets/Now.jpg" alt="Now" width=30%>
+
+
+也可以关注我的个人网站：w853245475.github.io 不过现在什么都没有
+
